@@ -1,4 +1,4 @@
-# php-small-functions
+# Small PHP functions that makes your coding easier
 PHP functions that we use in daily coding
 
 **reverse-string.php**
