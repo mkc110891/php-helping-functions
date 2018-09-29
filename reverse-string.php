@@ -1,6 +1,6 @@
 <?php
 
-$string = "I am programmer";
+$string = "I am developer";
 
 $revString = "";
 
